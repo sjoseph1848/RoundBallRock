@@ -5,16 +5,20 @@ document.getElementById('button').addEventListener('click', loadUsers);
 function loadUsers() {
   var xhr = new XMLHttpRequest();
 
-  xhr.open(
-    'GET',
-    'https://data.nba.net/10s/prod/v1/20170218/scoreboard.json',
-    true
-  );
+  xhr.open('GET', 'scores.json', true);
 
   xhr.onload = function() {
     if (this.status == 200) {
       var users = JSON.parse(this.responseText);
+      console.log(users.numGames);
       console.log(users);
+      console.log(users.games[0].arena);
+      console.log(users.games[0].hTeam);
+      console.log(users.games[0].hTeam.triCode);
+      console.log(users.games[0].hTeam.score);
+
+      console.log(users.games[0].vTeam.triCode);
+      console.log(users.games[0].vTeam.score);
       // var output = '';
 
       // for (var i in users) {

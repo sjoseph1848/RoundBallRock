@@ -12,6 +12,8 @@ and more including team rosters, schedules, standings, etc.
 
 2018 - 2019 Season List of all scores for November 7th: http://data.nba.net/10s/prod/v1/20181107/scoreboard.json
 
+2018 - 2019 Season List of all scores for November 8th:
+
 Goals:
 
 1. To create a Large Database of NBA data that will be open sourced for people to use to predict fantasy draft teams and to utilize however they please.

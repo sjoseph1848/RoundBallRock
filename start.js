@@ -5,7 +5,7 @@ document.getElementById('button').addEventListener('click', loadUsers);
 function loadUsers() {
   var xhr = new XMLHttpRequest();
 
-  xhr.open('GET', 'scores.json', true);
+  xhr.open('GET', 'scores1172018.json', true);
 
   xhr.onload = function() {
     if (this.status == 200) {
@@ -19,6 +19,14 @@ function loadUsers() {
 
       console.log(users.games[0].vTeam.triCode);
       console.log(users.games[0].vTeam.score);
+
+      for (var i = 0; i < users.numGames; i++) {
+        console.log(users.games[i].hTeam.triCode);
+        console.log(users.games[i].hTeam.score);
+
+        console.log(users.games[i].vTeam.triCode);
+        console.log(users.games[i].vTeam.score);
+      }
       // var output = '';
 
       // for (var i in users) {

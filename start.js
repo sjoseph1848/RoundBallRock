@@ -5,7 +5,7 @@ document.getElementById('button').addEventListener('click', loadUsers);
 function loadUsers() {
   var xhr = new XMLHttpRequest();
 
-  xhr.open('GET', 'scores1172018.json', true);
+  xhr.open('GET', './data/scores1172018.json', true);
 
   xhr.onload = function() {
     if (this.status == 200) {

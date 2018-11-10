@@ -1,0 +1,1741 @@
+{
+  "_internal": {
+    "pubDateTime": "2018-11-09 01:00:01.906",
+    "xslt": "xsl/league/schedule/marty_daily_scoreboard.xsl",
+    "eventName": "lp_video_game_changed_for_date"
+  },
+  "numGames": 9,
+  "games": [
+    {
+      "seasonStageId": 2,
+      "seasonYear": "2018",
+      "gameId": "0021800140",
+      "arena": {
+        "name": "Little Caesars Arena",
+        "isDomestic": true,
+        "city": "Detroit",
+        "stateAbbr": "MI",
+        "country": "USA"
+      },
+      "isGameActivated": false,
+      "statusNum": 3,
+      "extendedStatusNum": 0,
+      "startTimeEastern": "7:00 PM ET",
+      "startTimeUTC": "2018-11-06T00:00:00.000Z",
+      "endTimeUTC": "2018-11-06T03:05:00.000Z",
+      "startDateEastern": "20181105",
+      "clock": "",
+      "isBuzzerBeater": false,
+      "isPreviewArticleAvail": true,
+      "isRecapArticleAvail": true,
+      "tickets": {
+        "mobileApp": "https://a.data.nba.com/tickets/single/2018/0021800140/APP_TIX",
+        "desktopWeb": "https://a.data.nba.com/tickets/single/2018/0021800140/TEAM_SCH",
+        "mobileWeb": "https://a.data.nba.com/tickets/single/2018/0021800140/WEB_MWEB",
+        "leagGameInfo": "https://a.data.nba.com/tickets/single/2018/0021800140/LEAG_GAMEINFO",
+        "leagTix": "https://a.data.nba.com/tickets/single/2018/0021800140/LEAG_TIX"
+      },
+      "hasGameBookPdf": true,
+      "isStartTimeTBD": false,
+      "nugget": { "text": "Drummond: 25 points, 24 rebounds" },
+      "attendance": "14148",
+      "gameDuration": { "hours": "2", "minutes": "55" },
+      "period": {
+        "current": 5,
+        "type": 0,
+        "maxRegular": 4,
+        "isHalftime": false,
+        "isEndOfPeriod": false
+      },
+      "vTeam": {
+        "teamId": "1610612748",
+        "triCode": "MIA",
+        "win": "4",
+        "loss": "5",
+        "seriesWin": "0",
+        "seriesLoss": "0",
+        "score": "120",
+        "linescore": [
+          { "score": "28" },
+          { "score": "25" },
+          { "score": "34" },
+          { "score": "18" },
+          { "score": "15" }
+        ]
+      },
+      "hTeam": {
+        "teamId": "1610612765",
+        "triCode": "DET",
+        "win": "4",
+        "loss": "5",
+        "seriesWin": "0",
+        "seriesLoss": "0",
+        "score": "115",
+        "linescore": [
+          { "score": "27" },
+          { "score": "26" },
+          { "score": "27" },
+          { "score": "25" },
+          { "score": "10" }
+        ]
+      },
+      "watch": {
+        "broadcast": {
+          "broadcasters": {
+            "national": [],
+            "canadian": [],
+            "vTeam": [{ "shortName": "FSSUN", "longName": "Fox Sports Sun" }],
+            "hTeam": [{ "shortName": "FSD", "longName": "Fox Sports Detroit" }],
+            "spanish_hTeam": [],
+            "spanish_vTeam": [],
+            "spanish_national": []
+          },
+          "video": {
+            "regionalBlackoutCodes": "",
+            "canPurchase": true,
+            "isLeaguePass": true,
+            "isNationalBlackout": false,
+            "isTNTOT": false,
+            "isVR": false,
+            "tntotIsOnAir": false,
+            "isNextVR": false,
+            "isNBAOnTNTVR": false,
+            "isMagicLeap": false,
+            "isOculusVenues": false,
+            "streams": [
+              {
+                "streamType": "vTeam",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001401220",
+                "duration": 0
+              },
+              {
+                "streamType": "hTeam",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001401120",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_vTeam",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_hTeam",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_natl",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "mobile",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001401320",
+                "duration": 0
+              },
+              {
+                "streamType": "condensed",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001401030",
+                "duration": 0
+              }
+            ],
+            "deepLink": []
+          },
+          "audio": {
+            "national": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": []
+            },
+            "vTeam": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": [
+                {
+                  "shortName": "790 The Ticket / S: WAQI 710 AM",
+                  "longName": "790 The Ticket / S: WAQI 710 AM"
+                }
+              ]
+            },
+            "hTeam": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": [
+                {
+                  "shortName": "97.1 FM The Ticket",
+                  "longName": "97.1 FM The Ticket"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "seasonStageId": 2,
+      "seasonYear": "2018",
+      "gameId": "0021800141",
+      "arena": {
+        "name": "Bankers Life Fieldhouse",
+        "isDomestic": true,
+        "city": "Indianapolis",
+        "stateAbbr": "IN",
+        "country": "USA"
+      },
+      "isGameActivated": false,
+      "statusNum": 3,
+      "extendedStatusNum": 0,
+      "startTimeEastern": "7:00 PM ET",
+      "startTimeUTC": "2018-11-06T00:00:00.000Z",
+      "endTimeUTC": "2018-11-06T02:20:00.000Z",
+      "startDateEastern": "20181105",
+      "clock": "",
+      "isBuzzerBeater": false,
+      "isPreviewArticleAvail": true,
+      "isRecapArticleAvail": true,
+      "tickets": {
+        "mobileApp": "https://a.data.nba.com/tickets/single/2018/0021800141/APP_TIX",
+        "desktopWeb": "https://a.data.nba.com/tickets/single/2018/0021800141/TEAM_SCH",
+        "mobileWeb": "https://a.data.nba.com/tickets/single/2018/0021800141/WEB_MWEB",
+        "leagGameInfo": "https://a.data.nba.com/tickets/single/2018/0021800141/LEAG_GAMEINFO",
+        "leagTix": "https://a.data.nba.com/tickets/single/2018/0021800141/LEAG_TIX"
+      },
+      "hasGameBookPdf": true,
+      "isStartTimeTBD": false,
+      "nugget": { "text": "Harden: 28 points, 6 assists, 3 steals" },
+      "attendance": "14735",
+      "gameDuration": { "hours": "2", "minutes": "10" },
+      "period": {
+        "current": 4,
+        "type": 0,
+        "maxRegular": 4,
+        "isHalftime": false,
+        "isEndOfPeriod": false
+      },
+      "vTeam": {
+        "teamId": "1610612745",
+        "triCode": "HOU",
+        "win": "4",
+        "loss": "5",
+        "seriesWin": "0",
+        "seriesLoss": "0",
+        "score": "98",
+        "linescore": [
+          { "score": "29" },
+          { "score": "24" },
+          { "score": "16" },
+          { "score": "29" }
+        ]
+      },
+      "hTeam": {
+        "teamId": "1610612754",
+        "triCode": "IND",
+        "win": "7",
+        "loss": "4",
+        "seriesWin": "0",
+        "seriesLoss": "0",
+        "score": "94",
+        "linescore": [
+          { "score": "22" },
+          { "score": "33" },
+          { "score": "20" },
+          { "score": "19" }
+        ]
+      },
+      "watch": {
+        "broadcast": {
+          "broadcasters": {
+            "national": [],
+            "canadian": [],
+            "vTeam": [
+              {
+                "shortName": "ATTSN-SW",
+                "longName": "AT&T Sportsnet - Southwest"
+              }
+            ],
+            "hTeam": [
+              { "shortName": "FSIND", "longName": "Fox Sports Indiana" }
+            ],
+            "spanish_hTeam": [],
+            "spanish_vTeam": [],
+            "spanish_national": []
+          },
+          "video": {
+            "regionalBlackoutCodes": "",
+            "canPurchase": true,
+            "isLeaguePass": true,
+            "isNationalBlackout": false,
+            "isTNTOT": false,
+            "isVR": false,
+            "tntotIsOnAir": false,
+            "isNextVR": false,
+            "isNBAOnTNTVR": false,
+            "isMagicLeap": false,
+            "isOculusVenues": false,
+            "streams": [
+              {
+                "streamType": "vTeam",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001411220",
+                "duration": 0
+              },
+              {
+                "streamType": "hTeam",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001411120",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_vTeam",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_hTeam",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_natl",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "mobile",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001411320",
+                "duration": 0
+              },
+              {
+                "streamType": "condensed",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001411030",
+                "duration": 0
+              }
+            ],
+            "deepLink": []
+          },
+          "audio": {
+            "national": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": []
+            },
+            "vTeam": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": [{ "shortName": "790 AM", "longName": "790 AM" }]
+            },
+            "hTeam": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": [
+                {
+                  "shortName": "1070 The Fan/107.5 FM",
+                  "longName": "1070 The Fan/107.5 FM"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "seasonStageId": 2,
+      "seasonYear": "2018",
+      "gameId": "0021800142",
+      "arena": {
+        "name": "Amway Center",
+        "isDomestic": true,
+        "city": "Orlando",
+        "stateAbbr": "FL",
+        "country": "USA"
+      },
+      "isGameActivated": false,
+      "statusNum": 3,
+      "extendedStatusNum": 0,
+      "startTimeEastern": "7:00 PM ET",
+      "startTimeUTC": "2018-11-06T00:00:00.000Z",
+      "endTimeUTC": "2018-11-06T02:20:00.000Z",
+      "startDateEastern": "20181105",
+      "clock": "",
+      "isBuzzerBeater": false,
+      "isPreviewArticleAvail": true,
+      "isRecapArticleAvail": true,
+      "tickets": {
+        "mobileApp": "https://a.data.nba.com/tickets/single/2018/0021800142/APP_TIX",
+        "desktopWeb": "https://a.data.nba.com/tickets/single/2018/0021800142/TEAM_SCH",
+        "mobileWeb": "https://a.data.nba.com/tickets/single/2018/0021800142/WEB_MWEB",
+        "leagGameInfo": "https://a.data.nba.com/tickets/single/2018/0021800142/LEAG_GAMEINFO",
+        "leagTix": "https://a.data.nba.com/tickets/single/2018/0021800142/LEAG_TIX"
+      },
+      "hasGameBookPdf": true,
+      "isStartTimeTBD": false,
+      "nugget": { "text": "Fournier knocks down 22-footer at buzzer" },
+      "attendance": "15009",
+      "gameDuration": { "hours": "2", "minutes": "09" },
+      "period": {
+        "current": 4,
+        "type": 0,
+        "maxRegular": 4,
+        "isHalftime": false,
+        "isEndOfPeriod": false
+      },
+      "vTeam": {
+        "teamId": "1610612739",
+        "triCode": "CLE",
+        "win": "1",
+        "loss": "9",
+        "seriesWin": "0",
+        "seriesLoss": "0",
+        "score": "100",
+        "linescore": [
+          { "score": "21" },
+          { "score": "26" },
+          { "score": "32" },
+          { "score": "21" }
+        ]
+      },
+      "hTeam": {
+        "teamId": "1610612753",
+        "triCode": "ORL",
+        "win": "4",
+        "loss": "6",
+        "seriesWin": "0",
+        "seriesLoss": "0",
+        "score": "102",
+        "linescore": [
+          { "score": "30" },
+          { "score": "28" },
+          { "score": "12" },
+          { "score": "32" }
+        ]
+      },
+      "watch": {
+        "broadcast": {
+          "broadcasters": {
+            "national": [],
+            "canadian": [],
+            "vTeam": [{ "shortName": "FSO", "longName": "Fox Sports Ohio" }],
+            "hTeam": [
+              { "shortName": "FSFL", "longName": "Fox Sports Florida" }
+            ],
+            "spanish_hTeam": [],
+            "spanish_vTeam": [],
+            "spanish_national": []
+          },
+          "video": {
+            "regionalBlackoutCodes": "",
+            "canPurchase": true,
+            "isLeaguePass": true,
+            "isNationalBlackout": false,
+            "isTNTOT": false,
+            "isVR": false,
+            "tntotIsOnAir": false,
+            "isNextVR": false,
+            "isNBAOnTNTVR": false,
+            "isMagicLeap": false,
+            "isOculusVenues": false,
+            "streams": [
+              {
+                "streamType": "vTeam",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001421220",
+                "duration": 0
+              },
+              {
+                "streamType": "hTeam",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001421120",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_vTeam",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_hTeam",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_natl",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "mobile",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001421320",
+                "duration": 0
+              },
+              {
+                "streamType": "condensed",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001421030",
+                "duration": 0
+              }
+            ],
+            "deepLink": []
+          },
+          "audio": {
+            "national": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": []
+            },
+            "vTeam": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": [
+                {
+                  "shortName": "WTAM 1100 / 100.7 WMMS / 87.7 FM (ESP)",
+                  "longName": "WTAM 1100 / 100.7 WMMS / 87.7 FM (ESP)"
+                }
+              ]
+            },
+            "hTeam": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": [
+                {
+                  "shortName": "FM 96.9 The Game",
+                  "longName": "FM 96.9 The Game"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "seasonStageId": 2,
+      "seasonYear": "2018",
+      "gameId": "0021800143",
+      "arena": {
+        "name": "Madison Square Garden",
+        "isDomestic": true,
+        "city": "New York",
+        "stateAbbr": "NY",
+        "country": "USA"
+      },
+      "isGameActivated": false,
+      "statusNum": 3,
+      "extendedStatusNum": 0,
+      "startTimeEastern": "7:30 PM ET",
+      "startTimeUTC": "2018-11-06T00:30:00.000Z",
+      "endTimeUTC": "2018-11-06T03:37:00.000Z",
+      "startDateEastern": "20181105",
+      "clock": "",
+      "isBuzzerBeater": false,
+      "isPreviewArticleAvail": true,
+      "isRecapArticleAvail": true,
+      "tickets": {
+        "mobileApp": "https://a.data.nba.com/tickets/single/2018/0021800143/APP_TIX",
+        "desktopWeb": "https://a.data.nba.com/tickets/single/2018/0021800143/TEAM_SCH",
+        "mobileWeb": "https://a.data.nba.com/tickets/single/2018/0021800143/WEB_MWEB",
+        "leagGameInfo": "https://a.data.nba.com/tickets/single/2018/0021800143/LEAG_GAMEINFO",
+        "leagTix": "https://a.data.nba.com/tickets/single/2018/0021800143/LEAG_TIX"
+      },
+      "hasGameBookPdf": true,
+      "isStartTimeTBD": false,
+      "nugget": { "text": "LaVine: 10 of 41 points in overtime periods" },
+      "attendance": "19812",
+      "gameDuration": { "hours": "2", "minutes": "53" },
+      "period": {
+        "current": 6,
+        "type": 0,
+        "maxRegular": 4,
+        "isHalftime": false,
+        "isEndOfPeriod": false
+      },
+      "vTeam": {
+        "teamId": "1610612741",
+        "triCode": "CHI",
+        "win": "3",
+        "loss": "8",
+        "seriesWin": "0",
+        "seriesLoss": "0",
+        "score": "116",
+        "linescore": [
+          { "score": "24" },
+          { "score": "23" },
+          { "score": "31" },
+          { "score": "24" },
+          { "score": "6" },
+          { "score": "8" }
+        ]
+      },
+      "hTeam": {
+        "teamId": "1610612752",
+        "triCode": "NYK",
+        "win": "3",
+        "loss": "8",
+        "seriesWin": "0",
+        "seriesLoss": "0",
+        "score": "115",
+        "linescore": [
+          { "score": "21" },
+          { "score": "26" },
+          { "score": "25" },
+          { "score": "30" },
+          { "score": "6" },
+          { "score": "7" }
+        ]
+      },
+      "watch": {
+        "broadcast": {
+          "broadcasters": {
+            "national": [],
+            "canadian": [],
+            "vTeam": [{ "shortName": "WGN", "longName": "WGN" }],
+            "hTeam": [
+              { "shortName": "MSG", "longName": "Madison Square Garden" }
+            ],
+            "spanish_hTeam": [],
+            "spanish_vTeam": [],
+            "spanish_national": []
+          },
+          "video": {
+            "regionalBlackoutCodes": "",
+            "canPurchase": true,
+            "isLeaguePass": true,
+            "isNationalBlackout": false,
+            "isTNTOT": false,
+            "isVR": false,
+            "tntotIsOnAir": false,
+            "isNextVR": false,
+            "isNBAOnTNTVR": false,
+            "isMagicLeap": false,
+            "isOculusVenues": false,
+            "streams": [
+              {
+                "streamType": "vTeam",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001431220",
+                "duration": 0
+              },
+              {
+                "streamType": "hTeam",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001431120",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_vTeam",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_hTeam",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_natl",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "mobile",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001431320",
+                "duration": 0
+              },
+              {
+                "streamType": "condensed",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001431030",
+                "duration": 0
+              }
+            ],
+            "deepLink": [
+              {
+                "broadcaster": "MSG",
+                "regionalMarketCodes": "nykr",
+                "iosApp": "http://www.msggo.com/",
+                "androidApp": "http://www.msggo.com/",
+                "desktopWeb": "http://www.msggo.com/",
+                "mobileWeb": "http://www.msggo.com/"
+              }
+            ]
+          },
+          "audio": {
+            "national": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": []
+            },
+            "vTeam": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": [
+                { "shortName": "WSCR-AM 670", "longName": "WSCR-AM 670" }
+              ]
+            },
+            "hTeam": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": [
+                { "shortName": "ESPN NY 98.7", "longName": "ESPN NY 98.7" }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "seasonStageId": 2,
+      "seasonYear": "2018",
+      "gameId": "0021800144",
+      "arena": {
+        "name": "Chesapeake Energy Arena",
+        "isDomestic": true,
+        "city": "Oklahoma City",
+        "stateAbbr": "OK",
+        "country": "USA"
+      },
+      "isGameActivated": false,
+      "statusNum": 3,
+      "extendedStatusNum": 0,
+      "startTimeEastern": "8:00 PM ET",
+      "startTimeUTC": "2018-11-06T01:00:00.000Z",
+      "endTimeUTC": "2018-11-06T03:32:00.000Z",
+      "startDateEastern": "20181105",
+      "clock": "",
+      "isBuzzerBeater": false,
+      "isPreviewArticleAvail": true,
+      "isRecapArticleAvail": true,
+      "tickets": {
+        "mobileApp": "https://a.data.nba.com/tickets/single/2018/0021800144/APP_TIX",
+        "desktopWeb": "https://a.data.nba.com/tickets/single/2018/0021800144/TEAM_SCH",
+        "mobileWeb": "https://a.data.nba.com/tickets/single/2018/0021800144/WEB_MWEB",
+        "leagGameInfo": "https://a.data.nba.com/tickets/single/2018/0021800144/LEAG_GAMEINFO",
+        "leagTix": "https://a.data.nba.com/tickets/single/2018/0021800144/LEAG_TIX"
+      },
+      "hasGameBookPdf": true,
+      "isStartTimeTBD": false,
+      "nugget": { "text": "Thunder push winning streak to 5 games" },
+      "attendance": "18203",
+      "gameDuration": { "hours": "2", "minutes": "22" },
+      "period": {
+        "current": 4,
+        "type": 0,
+        "maxRegular": 4,
+        "isHalftime": false,
+        "isEndOfPeriod": false
+      },
+      "vTeam": {
+        "teamId": "1610612740",
+        "triCode": "NOP",
+        "win": "4",
+        "loss": "6",
+        "seriesWin": "0",
+        "seriesLoss": "0",
+        "score": "116",
+        "linescore": [
+          { "score": "28" },
+          { "score": "35" },
+          { "score": "23" },
+          { "score": "30" }
+        ]
+      },
+      "hTeam": {
+        "teamId": "1610612760",
+        "triCode": "OKC",
+        "win": "5",
+        "loss": "4",
+        "seriesWin": "0",
+        "seriesLoss": "0",
+        "score": "122",
+        "linescore": [
+          { "score": "36" },
+          { "score": "26" },
+          { "score": "38" },
+          { "score": "22" }
+        ]
+      },
+      "watch": {
+        "broadcast": {
+          "broadcasters": {
+            "national": [{ "shortName": "NBA TV", "longName": "NBA TV" }],
+            "canadian": [],
+            "vTeam": [
+              { "shortName": "FSNO", "longName": "Fox Sports New Orleans" }
+            ],
+            "hTeam": [
+              { "shortName": "FSOK", "longName": "Fox Sports Oklahoma" }
+            ],
+            "spanish_hTeam": [],
+            "spanish_vTeam": [],
+            "spanish_national": []
+          },
+          "video": {
+            "regionalBlackoutCodes": "",
+            "canPurchase": true,
+            "isLeaguePass": true,
+            "isNationalBlackout": false,
+            "isTNTOT": false,
+            "isVR": false,
+            "tntotIsOnAir": false,
+            "isNextVR": false,
+            "isNBAOnTNTVR": false,
+            "isMagicLeap": false,
+            "isOculusVenues": false,
+            "streams": [
+              {
+                "streamType": "vTeam",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001441220",
+                "duration": 0
+              },
+              {
+                "streamType": "hTeam",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001441120",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_vTeam",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_hTeam",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_natl",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "mobile",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001441320",
+                "duration": 0
+              },
+              {
+                "streamType": "condensed",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001441030",
+                "duration": 0
+              }
+            ],
+            "deepLink": []
+          },
+          "audio": {
+            "national": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": []
+            },
+            "vTeam": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": [
+                { "shortName": "WRNO 99.5FM", "longName": "WRNO 99.5FM" }
+              ]
+            },
+            "hTeam": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": [
+                {
+                  "shortName": "WWLS 98.1FM OKC / 930AM (ESP)",
+                  "longName": "WWLS 98.1FM OKC / 930AM (ESP)"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "seasonStageId": 2,
+      "seasonYear": "2018",
+      "gameId": "0021800145",
+      "arena": {
+        "name": "Pepsi Center",
+        "isDomestic": true,
+        "city": "Denver",
+        "stateAbbr": "CO",
+        "country": "USA"
+      },
+      "isGameActivated": false,
+      "statusNum": 3,
+      "extendedStatusNum": 0,
+      "startTimeEastern": "9:00 PM ET",
+      "startTimeUTC": "2018-11-06T02:00:00.000Z",
+      "endTimeUTC": "2018-11-06T04:22:00.000Z",
+      "startDateEastern": "20181105",
+      "clock": "",
+      "isBuzzerBeater": false,
+      "isPreviewArticleAvail": true,
+      "isRecapArticleAvail": true,
+      "tickets": {
+        "mobileApp": "https://a.data.nba.com/tickets/single/2018/0021800145/APP_TIX",
+        "desktopWeb": "https://a.data.nba.com/tickets/single/2018/0021800145/TEAM_SCH",
+        "mobileWeb": "https://a.data.nba.com/tickets/single/2018/0021800145/WEB_MWEB",
+        "leagGameInfo": "https://a.data.nba.com/tickets/single/2018/0021800145/LEAG_GAMEINFO",
+        "leagTix": "https://a.data.nba.com/tickets/single/2018/0021800145/LEAG_TIX"
+      },
+      "hasGameBookPdf": true,
+      "isStartTimeTBD": false,
+      "nugget": { "text": "Murray: Career-high 48 points (19/30 FG)" },
+      "attendance": "19520",
+      "gameDuration": { "hours": "2", "minutes": "12" },
+      "period": {
+        "current": 4,
+        "type": 0,
+        "maxRegular": 4,
+        "isHalftime": false,
+        "isEndOfPeriod": false
+      },
+      "vTeam": {
+        "teamId": "1610612738",
+        "triCode": "BOS",
+        "win": "6",
+        "loss": "4",
+        "seriesWin": "0",
+        "seriesLoss": "0",
+        "score": "107",
+        "linescore": [
+          { "score": "34" },
+          { "score": "22" },
+          { "score": "25" },
+          { "score": "26" }
+        ]
+      },
+      "hTeam": {
+        "teamId": "1610612743",
+        "triCode": "DEN",
+        "win": "9",
+        "loss": "1",
+        "seriesWin": "0",
+        "seriesLoss": "0",
+        "score": "115",
+        "linescore": [
+          { "score": "19" },
+          { "score": "35" },
+          { "score": "34" },
+          { "score": "27" }
+        ]
+      },
+      "watch": {
+        "broadcast": {
+          "broadcasters": {
+            "national": [],
+            "canadian": [],
+            "vTeam": [
+              { "shortName": "NBCSB", "longName": "NBC Sports Boston" }
+            ],
+            "hTeam": [{ "shortName": "ALT", "longName": "Altitude" }],
+            "spanish_hTeam": [],
+            "spanish_vTeam": [],
+            "spanish_national": []
+          },
+          "video": {
+            "regionalBlackoutCodes": "",
+            "canPurchase": true,
+            "isLeaguePass": true,
+            "isNationalBlackout": false,
+            "isTNTOT": false,
+            "isVR": false,
+            "tntotIsOnAir": false,
+            "isNextVR": false,
+            "isNBAOnTNTVR": false,
+            "isMagicLeap": false,
+            "isOculusVenues": false,
+            "streams": [
+              {
+                "streamType": "vTeam",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001451220",
+                "duration": 0
+              },
+              {
+                "streamType": "hTeam",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001451120",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_vTeam",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_hTeam",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_natl",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "mobile",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001451320",
+                "duration": 0
+              },
+              {
+                "streamType": "condensed",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001451030",
+                "duration": 0
+              }
+            ],
+            "deepLink": []
+          },
+          "audio": {
+            "national": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": []
+            },
+            "vTeam": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": [
+                {
+                  "shortName": "WROR (105.7 FM)",
+                  "longName": "WROR (105.7 FM)"
+                }
+              ]
+            },
+            "hTeam": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": [
+                {
+                  "shortName": "KKSE-FM 92.5/KKSE 950",
+                  "longName": "KKSE-FM 92.5/KKSE 950"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "seasonStageId": 2,
+      "seasonYear": "2018",
+      "gameId": "0021800146",
+      "arena": {
+        "name": "Vivint Smart Home Arena",
+        "isDomestic": true,
+        "city": "Salt Lake City",
+        "stateAbbr": "UT",
+        "country": "USA"
+      },
+      "isGameActivated": false,
+      "statusNum": 3,
+      "extendedStatusNum": 0,
+      "startTimeEastern": "9:00 PM ET",
+      "startTimeUTC": "2018-11-06T02:00:00.000Z",
+      "endTimeUTC": "2018-11-06T04:19:00.000Z",
+      "startDateEastern": "20181105",
+      "clock": "",
+      "isBuzzerBeater": false,
+      "isPreviewArticleAvail": true,
+      "isRecapArticleAvail": true,
+      "tickets": {
+        "mobileApp": "https://a.data.nba.com/tickets/single/2018/0021800146/APP_TIX",
+        "desktopWeb": "https://a.data.nba.com/tickets/single/2018/0021800146/TEAM_SCH",
+        "mobileWeb": "https://a.data.nba.com/tickets/single/2018/0021800146/WEB_MWEB",
+        "leagGameInfo": "https://a.data.nba.com/tickets/single/2018/0021800146/LEAG_GAMEINFO",
+        "leagTix": "https://a.data.nba.com/tickets/single/2018/0021800146/LEAG_TIX"
+      },
+      "hasGameBookPdf": true,
+      "isStartTimeTBD": false,
+      "nugget": { "text": "Lowry: 17 points, 11 assists, 7 rebounds" },
+      "attendance": "18306",
+      "gameDuration": { "hours": "2", "minutes": "09" },
+      "period": {
+        "current": 4,
+        "type": 0,
+        "maxRegular": 4,
+        "isHalftime": false,
+        "isEndOfPeriod": false
+      },
+      "vTeam": {
+        "teamId": "1610612761",
+        "triCode": "TOR",
+        "win": "10",
+        "loss": "1",
+        "seriesWin": "0",
+        "seriesLoss": "0",
+        "score": "124",
+        "linescore": [
+          { "score": "30" },
+          { "score": "35" },
+          { "score": "29" },
+          { "score": "30" }
+        ]
+      },
+      "hTeam": {
+        "teamId": "1610612762",
+        "triCode": "UTA",
+        "win": "4",
+        "loss": "6",
+        "seriesWin": "0",
+        "seriesLoss": "0",
+        "score": "111",
+        "linescore": [
+          { "score": "31" },
+          { "score": "23" },
+          { "score": "18" },
+          { "score": "39" }
+        ]
+      },
+      "watch": {
+        "broadcast": {
+          "broadcasters": {
+            "national": [],
+            "canadian": [{ "shortName": "SN1", "longName": "Sportsnet One" }],
+            "vTeam": [{ "shortName": "SN1", "longName": "Sportsnet One" }],
+            "hTeam": [
+              {
+                "shortName": "ATTSN-RM",
+                "longName": "AT&T Sportsnet - Rocky Mountain"
+              }
+            ],
+            "spanish_hTeam": [],
+            "spanish_vTeam": [],
+            "spanish_national": []
+          },
+          "video": {
+            "regionalBlackoutCodes": "",
+            "canPurchase": true,
+            "isLeaguePass": true,
+            "isNationalBlackout": false,
+            "isTNTOT": false,
+            "isVR": false,
+            "tntotIsOnAir": false,
+            "isNextVR": false,
+            "isNBAOnTNTVR": false,
+            "isMagicLeap": false,
+            "isOculusVenues": false,
+            "streams": [
+              {
+                "streamType": "vTeam",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001461220",
+                "duration": 0
+              },
+              {
+                "streamType": "hTeam",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001461120",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_vTeam",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_hTeam",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_natl",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "mobile",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001461320",
+                "duration": 0
+              },
+              {
+                "streamType": "condensed",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001461030",
+                "duration": 0
+              }
+            ],
+            "deepLink": []
+          },
+          "audio": {
+            "national": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": []
+            },
+            "vTeam": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": [
+                {
+                  "shortName": "TSN Radio 1050 Toronto",
+                  "longName": "TSN Radio 1050 Toronto"
+                }
+              ]
+            },
+            "hTeam": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": [
+                {
+                  "shortName": "97.5 FM | 1280 AM The Zone",
+                  "longName": "97.5 FM | 1280 AM The Zone"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "seasonStageId": 2,
+      "seasonYear": "2018",
+      "gameId": "0021800147",
+      "arena": {
+        "name": "ORACLE Arena",
+        "isDomestic": true,
+        "city": "Oakland",
+        "stateAbbr": "CA",
+        "country": "USA"
+      },
+      "isGameActivated": false,
+      "statusNum": 3,
+      "extendedStatusNum": 0,
+      "startTimeEastern": "10:30 PM ET",
+      "startTimeUTC": "2018-11-06T03:30:00.000Z",
+      "endTimeUTC": "2018-11-06T05:51:00.000Z",
+      "startDateEastern": "20181105",
+      "clock": "",
+      "isBuzzerBeater": false,
+      "isPreviewArticleAvail": true,
+      "isRecapArticleAvail": true,
+      "tickets": {
+        "mobileApp": "https://a.data.nba.com/tickets/single/2018/0021800147/APP_TIX",
+        "desktopWeb": "https://a.data.nba.com/tickets/single/2018/0021800147/TEAM_SCH",
+        "mobileWeb": "https://a.data.nba.com/tickets/single/2018/0021800147/WEB_MWEB",
+        "leagGameInfo": "https://a.data.nba.com/tickets/single/2018/0021800147/LEAG_GAMEINFO",
+        "leagTix": "https://a.data.nba.com/tickets/single/2018/0021800147/LEAG_TIX"
+      },
+      "hasGameBookPdf": true,
+      "isStartTimeTBD": false,
+      "nugget": { "text": "Warriors erupt for 35 points in third quarter" },
+      "attendance": "19596",
+      "gameDuration": { "hours": "2", "minutes": "06" },
+      "period": {
+        "current": 4,
+        "type": 0,
+        "maxRegular": 4,
+        "isHalftime": false,
+        "isEndOfPeriod": false
+      },
+      "vTeam": {
+        "teamId": "1610612763",
+        "triCode": "MEM",
+        "win": "5",
+        "loss": "4",
+        "seriesWin": "0",
+        "seriesLoss": "0",
+        "score": "101",
+        "linescore": [
+          { "score": "31" },
+          { "score": "27" },
+          { "score": "15" },
+          { "score": "28" }
+        ]
+      },
+      "hTeam": {
+        "teamId": "1610612744",
+        "triCode": "GSW",
+        "win": "10",
+        "loss": "1",
+        "seriesWin": "0",
+        "seriesLoss": "0",
+        "score": "117",
+        "linescore": [
+          { "score": "29" },
+          { "score": "29" },
+          { "score": "34" },
+          { "score": "25" }
+        ]
+      },
+      "watch": {
+        "broadcast": {
+          "broadcasters": {
+            "national": [{ "shortName": "NBA TV", "longName": "NBA TV" }],
+            "canadian": [{ "shortName": "NBAC", "longName": "NBA TV Canada" }],
+            "vTeam": [
+              {
+                "shortName": "FSSE-MEM",
+                "longName": "Fox Sports Southeast - Memphis"
+              }
+            ],
+            "hTeam": [
+              { "shortName": "NBCSBA", "longName": "NBC Sports  Bay Area" }
+            ],
+            "spanish_hTeam": [],
+            "spanish_vTeam": [],
+            "spanish_national": []
+          },
+          "video": {
+            "regionalBlackoutCodes": "",
+            "canPurchase": true,
+            "isLeaguePass": true,
+            "isNationalBlackout": false,
+            "isTNTOT": false,
+            "isVR": false,
+            "tntotIsOnAir": false,
+            "isNextVR": false,
+            "isNBAOnTNTVR": false,
+            "isMagicLeap": false,
+            "isOculusVenues": false,
+            "streams": [
+              {
+                "streamType": "vTeam",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001471220",
+                "duration": 0
+              },
+              {
+                "streamType": "hTeam",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001471120",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_vTeam",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_hTeam",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_natl",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "mobile",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001471320",
+                "duration": 0
+              },
+              {
+                "streamType": "condensed",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001471030",
+                "duration": 0
+              }
+            ],
+            "deepLink": []
+          },
+          "audio": {
+            "national": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": []
+            },
+            "vTeam": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": [{ "shortName": "", "longName": "" }]
+            },
+            "hTeam": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": [
+                { "shortName": "95.7 The Game", "longName": "95.7 The Game" }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "seasonStageId": 2,
+      "seasonYear": "2018",
+      "gameId": "0021800148",
+      "arena": {
+        "name": "Staples Center",
+        "isDomestic": true,
+        "city": "Los Angeles",
+        "stateAbbr": "CA",
+        "country": "USA"
+      },
+      "isGameActivated": false,
+      "statusNum": 3,
+      "extendedStatusNum": 0,
+      "startTimeEastern": "10:30 PM ET",
+      "startTimeUTC": "2018-11-06T03:30:00.000Z",
+      "endTimeUTC": "2018-11-06T05:56:00.000Z",
+      "startDateEastern": "20181105",
+      "clock": "",
+      "isBuzzerBeater": false,
+      "isPreviewArticleAvail": true,
+      "isRecapArticleAvail": true,
+      "tickets": {
+        "mobileApp": "https://a.data.nba.com/tickets/single/2018/0021800148/APP_TIX",
+        "desktopWeb": "https://a.data.nba.com/tickets/single/2018/0021800148/TEAM_SCH",
+        "mobileWeb": "https://a.data.nba.com/tickets/single/2018/0021800148/WEB_MWEB",
+        "leagGameInfo": "https://a.data.nba.com/tickets/single/2018/0021800148/LEAG_GAMEINFO",
+        "leagTix": "https://a.data.nba.com/tickets/single/2018/0021800148/LEAG_TIX"
+      },
+      "hasGameBookPdf": true,
+      "isStartTimeTBD": false,
+      "nugget": { "text": "Harris: 22 points, 10 rebounds" },
+      "attendance": "16564",
+      "gameDuration": { "hours": "2", "minutes": "13" },
+      "period": {
+        "current": 4,
+        "type": 0,
+        "maxRegular": 4,
+        "isHalftime": false,
+        "isEndOfPeriod": false
+      },
+      "vTeam": {
+        "teamId": "1610612750",
+        "triCode": "MIN",
+        "win": "4",
+        "loss": "7",
+        "seriesWin": "0",
+        "seriesLoss": "0",
+        "score": "109",
+        "linescore": [
+          { "score": "33" },
+          { "score": "26" },
+          { "score": "25" },
+          { "score": "25" }
+        ]
+      },
+      "hTeam": {
+        "teamId": "1610612746",
+        "triCode": "LAC",
+        "win": "6",
+        "loss": "4",
+        "seriesWin": "0",
+        "seriesLoss": "0",
+        "score": "120",
+        "linescore": [
+          { "score": "31" },
+          { "score": "32" },
+          { "score": "29" },
+          { "score": "28" }
+        ]
+      },
+      "watch": {
+        "broadcast": {
+          "broadcasters": {
+            "national": [],
+            "canadian": [],
+            "vTeam": [{ "shortName": "FSNTH", "longName": "Fox Sports North" }],
+            "hTeam": [
+              { "shortName": "FSPT", "longName": "Fox Sports Prime Ticket" }
+            ],
+            "spanish_hTeam": [],
+            "spanish_vTeam": [],
+            "spanish_national": []
+          },
+          "video": {
+            "regionalBlackoutCodes": "",
+            "canPurchase": true,
+            "isLeaguePass": true,
+            "isNationalBlackout": false,
+            "isTNTOT": false,
+            "isVR": false,
+            "tntotIsOnAir": false,
+            "isNextVR": false,
+            "isNBAOnTNTVR": false,
+            "isMagicLeap": false,
+            "isOculusVenues": false,
+            "streams": [
+              {
+                "streamType": "vTeam",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001481220",
+                "duration": 0
+              },
+              {
+                "streamType": "hTeam",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001481120",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_vTeam",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_hTeam",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "espanol_natl",
+                "isOnAir": false,
+                "doesArchiveExist": false,
+                "isArchiveAvailToWatch": false,
+                "streamId": "",
+                "duration": 0
+              },
+              {
+                "streamType": "mobile",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001481320",
+                "duration": 0
+              },
+              {
+                "streamType": "condensed",
+                "isOnAir": false,
+                "doesArchiveExist": true,
+                "isArchiveAvailToWatch": true,
+                "streamId": "100218001481030",
+                "duration": 0
+              }
+            ],
+            "deepLink": []
+          },
+          "audio": {
+            "national": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": []
+            },
+            "vTeam": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": [
+                { "shortName": "830 WCCO", "longName": "830 WCCO" }
+              ]
+            },
+            "hTeam": {
+              "streams": [
+                { "language": "English", "isOnAir": false, "streamId": "" },
+                { "language": "Spanish", "isOnAir": false, "streamId": "" }
+              ],
+              "broadcasters": [
+                {
+                  "shortName": "AM 570 LA Sports",
+                  "longName": "AM 570 LA Sports"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}
